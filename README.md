@@ -4,9 +4,10 @@ A computer vision-powered virtual keyboard that allows you to type using hand ge
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.10, 3.11, or 3.12
 - Webcam
 - Windows/Mac/Linux
+
 
 ## Installation & Running
 1. Install Python
@@ -22,7 +23,7 @@ cd Virtual-Keyboard
 ```
 3. Create a virtual environment
 ```
-python -m venv venv
+py -3.11 -m venv venv
 ```
 4. Activate the virtual environment
 
